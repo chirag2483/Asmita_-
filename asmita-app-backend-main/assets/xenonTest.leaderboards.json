@@ -1,0 +1,194 @@
+[{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0140"
+  },
+  "Name": "Indian Institute of Information Technology, Vadodara (IIIT Vadodara)",
+  "Logo": "https://example.com/iiit_vadodara_logo.png",
+  "Points": 75
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0145"
+  },
+  "Name": "Kalyani",
+  "Logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
+  "Points": 185
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf014b"
+  },
+  "Name": "Indian Institute of Information Technology, Raichur (IIIT Raichur)",
+  "Logo": "https://example.com/iiit_raichur_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0142"
+  },
+  "Name": "Manipur",
+  "Logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
+  "Points": 185
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf014a"
+  },
+  "Name": "Indian Institute of Information Technology, Agartala (IIIT Agartala)",
+  "Logo": "https://example.com/iiit_agartala_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf014c"
+  },
+  "Name": "Indian Institute of Information Technology, Nagpur (IIIT Nagpur)",
+  "Logo": "https://example.com/iiit_nagpur_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf014f"
+  },
+  "Name": "Indian Institute of Information Technology, Lucknow (IIIT Lucknow)",
+  "Logo": "https://example.com/iiit_lucknow_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0152"
+  },
+  "Name": "Indian Institute of Information Technology, Tiruchirappalli (IIIT Tiruchirappalli)",
+  "Logo": "https://example.com/iiit_tiruchirappalli_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0141"
+  },
+  "Name": "Indian Institute of Information Technology, Kottayam (IIIT Kottayam)",
+  "Logo": "https://example.com/iiit_kottayam_logo.png",
+  "Points": 85
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf013b"
+  },
+  "Name": "Allahabad",
+  "Logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
+  "Points": 900,
+  "__v": 3,
+  "Leaderboard": []
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0143"
+  },
+  "Name": "Dharwad",
+  "Logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
+  "Points": 290
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0144"
+  },
+  "Name": "Una",
+  "Logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
+  "Points": 245
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0147"
+  },
+  "Name": "Indian Institute of Information Technology, Bhopal (IIIT Bhopal)",
+  "Logo": "https://example.com/iiit_bhopal_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0148"
+  },
+  "Name": "Indian Institute of Information Technology, Surat (IIIT Surat)",
+  "Logo": "https://example.com/iiit_surat_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf014d"
+  },
+  "Name": "Indian Institute of Information Technology, Ranchi (IIIT Ranchi)",
+  "Logo": "https://example.com/iiit_ranchi_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0151"
+  },
+  "Name": "Indian Institute of Information Technology, Andhra Pradesh (IIIT Andhra Pradesh)",
+  "Logo": "https://example.com/iiit_andhra_pradesh_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf013c"
+  },
+  "Name": "Guwahati",
+  "Logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
+  "Points": 100
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf013d"
+  },
+  "Name": "Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram (IIITDM Kancheepuram)",
+  "Logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
+  "Points": 25
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf013e"
+  },
+  "Name": "Indian Institute of Information Technology, Design and Manufacturing, Jabalpur (IIITDM Jabalpur)",
+  "Logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
+  "Points": 35
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf013f"
+  },
+  "Name": "Sri City",
+  "Logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
+  "Points": 150
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0146"
+  },
+  "Name": "Pune",
+  "Logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
+  "Points": 200
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0149"
+  },
+  "Name": "Indian Institute of Information Technology, Bhagalpur (IIIT Bhagalpur)",
+  "Logo": "https://example.com/iiit_bhagalpur_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf014e"
+  },
+  "Name": "Indian Institute of Information Technology, Sonepat (IIIT Sonepat)",
+  "Logo": "https://example.com/iiit_sonepat_logo.png",
+  "Points": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac75b1df2a84fdaf0150"
+  },
+  "Name": "Indian Institute of Information Technology, Kota (IIIT Kota)",
+  "Logo": "https://example.com/iiit_kota_logo.png",
+  "Points": 0
+}]
